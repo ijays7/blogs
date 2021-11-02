@@ -7,8 +7,11 @@
 
 
 ## Android API
-- [再见onActivityResult，你好New Result API](https://github.com/ijays7/blogs/issues/2)
+- [再见 onActivityResult，你好New Result API](https://github.com/ijays7/blogs/issues/2)
 - [一种新的在 fragment 中处理按键返回的方法](https://github.com/ijays7/blogs/issues/3)
+
+## 工具相关
+- [经常用到的 Sheell命令](https://github.com/ijays7/blogs/issues/5)
 
 ## 问题解决
 - [Fresco 长图模糊解决方案](https://github.com/ijays7/blogs/issues/1)
